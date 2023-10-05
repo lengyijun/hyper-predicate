@@ -1,0 +1,19 @@
+{
+  "name": "hyper-predicate",
+  "version": "0.0.1",
+  "description": "Autosuggest the command based on last command, in Hyper terminal",
+  "main": "index.js",
+  "keywords": [
+    "hyper"
+  ],
+  "author": "lengyijun",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lengyijun/hyper-predicate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lengyijun/hyper-predicate/issues"
+  },
+  "homepage": "https://github.com/lengyijun/hyper-predicate#readme"
+}
